@@ -1,0 +1,1088 @@
+{
+            "nextToken": null,
+            "subscriptionList": [
+                {
+                    "logicalTable": {
+                        "name": "SCHEMA_AUTHORITY_TABLES_DAILY",
+                        "providerId": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b",
+                        "version": "1"
+                    },
+                    "sourceTable": {
+                        "name": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b_SCHEMA_AUTHORITY_TABLES_DAILY",
+                        "providerId": "ba4e4440-ab55-4abe-9001-cd7bddacc235",
+                        "version": "1"
+                    },
+                    "subscriptionId": "24b57d13-bc16-6352-2a95-589b3bf92afc",
+                    "subscriptionStatus": "SUCCESS",
+                    "targetTable": {
+                        "name": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b_SCHEMA_AUTHORITY_TABLES_DAILY",
+                        "providerId": "c9c624bd-d6e4-446b-a140-58890220573c",
+                        "version": "543356ef-0150-4069-998d-3939744ac5fc"
+                    }
+                },
+                {
+                    "logicalTable": {
+                        "name": "O_REMEDY_CM",
+                        "providerId": "booker",
+                        "version": "3"
+                    },
+                    "sourceTable": {
+                        "name": "O_REMEDY_CM_CAIRNS",
+                        "providerId": "booker",
+                        "version": "3"
+                    },
+                    "subscriptionId": "98b33556-b884-f44f-ef21-b7b2a90400cb",
+                    "subscriptionStatus": "FAILURE",
+                    "targetTable": {
+                        "name": "O_REMEDY_CM_CAIRNS_COMPACTED",
+                        "providerId": "booker",
+                        "version": "default-partition-scheme-by-dmo-snapshot-tool.1539002356605"
+                    }
+                },
+                {
+                    "logicalTable": {
+                        "name": "DWP_MARKETPLACE_JOB_MAP_DAILY",
+                        "providerId": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b",
+                        "version": "3"
+                    },
+                    "sourceTable": {
+                        "name": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b_DWP_MARKETPLACE_JOB_MAP_DAILY",
+                        "providerId": "ba4e4440-ab55-4abe-9001-cd7bddacc235",
+                        "version": "855"
+                    },
+                    "subscriptionId": "d4b5a08c-fa16-d551-c291-b83aeefc541c",
+                    "subscriptionStatus": "FAILURE",
+                    "targetTable": {
+                        "name": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b_DWP_MARKETPLACE_JOB_MAP_DAILY",
+                        "providerId": "b5c1a96a-1c33-4df4-ace8-68db97d11866",
+                        "version": "ab079f40-91f8-4c21-9d84-ec8b16ce1a5c"
+                    }
+                },
+                {
+                    "logicalTable": {
+                        "name": "DWP_MARKETPLACES_DAILY",
+                        "providerId": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b",
+                        "version": "3"
+                    },
+                    "sourceTable": {
+                        "name": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b_DWP_MARKETPLACES_DAILY",
+                        "providerId": "ba4e4440-ab55-4abe-9001-cd7bddacc235",
+                        "version": "225"
+                    },
+                    "subscriptionId": "f6b585f8-7295-b1ec-3a8f-f67a243a40c1",
+                    "subscriptionStatus": "FAILURE",
+                    "targetTable": {
+                        "name": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b_DWP_MARKETPLACES_DAILY",
+                        "providerId": "b5c1a96a-1c33-4df4-ace8-68db97d11866",
+                        "version": "a20b38d0-ab55-4d56-af2b-835f58f7c8e5"
+                    }
+                },
+                {
+                    "logicalTable": {
+                        "name": "DWP_MARKETPLACE_JOB_MAP_DAILY",
+                        "providerId": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b",
+                        "version": "3"
+                    },
+                    "sourceTable": {
+                        "name": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b_DWP_MARKETPLACE_JOB_MAP_DAILY",
+                        "providerId": "ba4e4440-ab55-4abe-9001-cd7bddacc235",
+                        "version": "30"
+                    },
+                    "subscriptionId": "92b57e22-6cbe-ce79-c18c-35d2ff3971e0",
+                    "subscriptionStatus": "FAILURE",
+                    "targetTable": {
+                        "name": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b_DWP_MARKETPLACE_JOB_MAP_DAILY",
+                        "providerId": "c9c624bd-d6e4-446b-a140-58890220573c",
+                        "version": "7eac2ab9-a03c-4371-a04c-24f480ed6b99"
+                    }
+                },
+                {
+                    "logicalTable": {
+                        "name": "HINT_VIEW_END_EVENT",
+                        "providerId": "5b106fe7-1876-4043-98ed-bb331ae1f8f7",
+                        "version": "1"
+                    },
+                    "sourceTable": {
+                        "name": "5b106fe7-1876-4043-98ed-bb331ae1f8f7_HINT_VIEW_END_EVENT",
+                        "providerId": "ba4e4440-ab55-4abe-9001-cd7bddacc235",
+                        "version": "1"
+                    },
+                    "subscriptionId": "eab6ed8d-574d-714d-3b20-b35175415f69",
+                    "subscriptionStatus": "SUCCESS",
+                    "targetTable": {
+                        "name": "5b106fe7-1876-4043-98ed-bb331ae1f8f7_HINT_VIEW_END_EVENT",
+                        "providerId": "b5c1a96a-1c33-4df4-ace8-68db97d11866",
+                        "version": "df77696a-809b-4070-ad6d-9a66b77e4d1c"
+                    }
+                },
+                {
+                    "logicalTable": {
+                        "name": "DWP_POSS_JR_DATA_FILE_DEPEND_DAILY",
+                        "providerId": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b",
+                        "version": "3"
+                    },
+                    "sourceTable": {
+                        "name": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b_DWP_POSS_JR_DATA_FILE_DEPEND_DAILY",
+                        "providerId": "ba4e4440-ab55-4abe-9001-cd7bddacc235",
+                        "version": "415"
+                    },
+                    "subscriptionId": "aab592c6-2b7b-090e-22ae-784eb5901c59",
+                    "subscriptionStatus": "FAILURE",
+                    "targetTable": {
+                        "name": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b_DWP_POSS_JR_DATA_FILE_DEPEND_DAILY",
+                        "providerId": "b5c1a96a-1c33-4df4-ace8-68db97d11866",
+                        "version": "2fe2c3d9-a5fc-44e0-894f-3d1840262e3a"
+                    }
+                },
+                {
+                    "logicalTable": {
+                        "name": "D_DELIVERY_PACKET_ITEMS",
+                        "providerId": "booker",
+                        "version": "2"
+                    },
+                    "sourceTable": {
+                        "name": "D_DELIVERY_PACKET_ITEMS_CAIRNS",
+                        "providerId": "booker",
+                        "version": "4"
+                    },
+                    "subscriptionId": "d2b6b762-be90-0196-1fab-c9e189acd0a6",
+                    "subscriptionStatus": "SUCCESS",
+                    "targetTable": {
+                        "name": "D_DELIVERY_PACKET_ITEMS_CAIRNS_COMPACTED",
+                        "providerId": "booker",
+                        "version": "6943f22a-8c2a-49f6-9745-7838fec47691"
+                    }
+                },
+                {
+                    "logicalTable": {
+                        "name": "D_SOP_NETWORK_VIEWER_ACTUALS",
+                        "providerId": "15388757-0393-4454-82cf-2edcc4bb7abf",
+                        "version": "1"
+                    },
+                    "sourceTable": {
+                        "name": "15388757-0393-4454-82cf-2edcc4bb7abf_D_SOP_NETWORK_VIEWER_ACTUALS",
+                        "providerId": "ba4e4440-ab55-4abe-9001-cd7bddacc235",
+                        "version": "1"
+                    },
+                    "subscriptionId": "a4b92bd2-961f-1c7f-80bf-fac3b0a686eb",
+                    "subscriptionStatus": "IN_PROGRESS",
+                    "targetTable": {
+                        "name": "15388757-0393-4454-82cf-2edcc4bb7abf_D_SOP_NETWORK_VIEWER_ACTUALS",
+                        "providerId": "c9c624bd-d6e4-446b-a140-58890220573c",
+                        "version": "da7c2bed-e81f-4a2e-bbb9-44adbe06bb57"
+                    }
+                },
+                {
+                    "logicalTable": {
+                        "name": "DWP_MARKETPLACE_JOB_MAP_DAILY",
+                        "providerId": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b",
+                        "version": "3"
+                    },
+                    "sourceTable": {
+                        "name": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b_DWP_MARKETPLACE_JOB_MAP_DAILY",
+                        "providerId": "ba4e4440-ab55-4abe-9001-cd7bddacc235",
+                        "version": "687"
+                    },
+                    "subscriptionId": "8cb59a5d-458b-be14-825f-009f26ef833c",
+                    "subscriptionStatus": "FAILURE",
+                    "targetTable": {
+                        "name": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b_DWP_MARKETPLACE_JOB_MAP_DAILY",
+                        "providerId": "c9c624bd-d6e4-446b-a140-58890220573c",
+                        "version": "6c17c8fe-dc5a-4f4c-82e0-9ae13e9152fd"
+                    }
+                },
+                {
+                    "logicalTable": {
+                        "name": "TEST_CP_FE",
+                        "providerId": "contribution_ddl",
+                        "version": "1"
+                    },
+                    "sourceTable": {
+                        "name": "contribution_ddl_TEST_CP_FE",
+                        "providerId": "ba4e4440-ab55-4abe-9001-cd7bddacc235",
+                        "version": "8"
+                    },
+                    "subscriptionId": "eeb8f0cd-fbf4-f4b5-c513-482168af2f8e",
+                    "subscriptionStatus": "SUCCESS",
+                    "targetTable": {
+                        "name": "contribution_ddl_TEST_CP_FE",
+                        "providerId": "b5c1a96a-1c33-4df4-ace8-68db97d11866",
+                        "version": "d5a3d78f-ad24-42cd-a3dc-7dbb190653d3"
+                    }
+                },
+                {
+                    "logicalTable": {
+                        "name": "D_FEE_CALCULATION_DATA_SHADOW",
+                        "providerId": "fb57e7f3-b1be-4660-ab92-cb25af48f094",
+                        "version": "1"
+                    },
+                    "sourceTable": {
+                        "name": "fb57e7f3-b1be-4660-ab92-cb25af48f094_D_FEE_CALCULATION_DATA_SHADOW",
+                        "providerId": "ba4e4440-ab55-4abe-9001-cd7bddacc235",
+                        "version": "1"
+                    },
+                    "subscriptionId": "20b98668-58e3-e3b1-9eee-cd55f1743dc9",
+                    "subscriptionStatus": "SUCCESS",
+                    "targetTable": {
+                        "name": "fb57e7f3-b1be-4660-ab92-cb25af48f094_D_FEE_CALCULATION_DATA_SHADOW",
+                        "providerId": "c9c624bd-d6e4-446b-a140-58890220573c",
+                        "version": "6b56c963-9862-4f11-bf80-bcc8037f4e45"
+                    }
+                },
+                {
+                    "logicalTable": {
+                        "name": "DWP_POSS_JR_DATA_FILE_DEPEND_DAILY",
+                        "providerId": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b",
+                        "version": "3"
+                    },
+                    "sourceTable": {
+                        "name": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b_DWP_POSS_JR_DATA_FILE_DEPEND_DAILY",
+                        "providerId": "ba4e4440-ab55-4abe-9001-cd7bddacc235",
+                        "version": "684"
+                    },
+                    "subscriptionId": "dab5a1b3-8056-a360-f027-76608a93379f",
+                    "subscriptionStatus": "FAILURE",
+                    "targetTable": {
+                        "name": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b_DWP_POSS_JR_DATA_FILE_DEPEND_DAILY",
+                        "providerId": "b5c1a96a-1c33-4df4-ace8-68db97d11866",
+                        "version": "59cabd5d-01ad-435c-81bf-653ebc351095"
+                    }
+                },
+                {
+                    "logicalTable": {
+                        "name": "O_GC_DESIGNS",
+                        "providerId": "bff6de0b-1f5e-4331-9c73-690189e912fb",
+                        "version": "1"
+                    },
+                    "sourceTable": {
+                        "name": "bff6de0b-1f5e-4331-9c73-690189e912fb_O_GC_DESIGNS",
+                        "providerId": "ba4e4440-ab55-4abe-9001-cd7bddacc235",
+                        "version": "2"
+                    },
+                    "subscriptionId": "72b8b131-e0cc-3f79-92d9-f9ffb99bf177",
+                    "subscriptionStatus": "SUCCESS",
+                    "targetTable": {
+                        "name": "bff6de0b-1f5e-4331-9c73-690189e912fb_O_GC_DESIGNS",
+                        "providerId": "b5c1a96a-1c33-4df4-ace8-68db97d11866",
+                        "version": "474352b9-a533-456c-a342-a75172a314f5"
+                    }
+                },
+                {
+                    "logicalTable": {
+                        "name": "SEND_TO_PHONE",
+                        "providerId": "vans",
+                        "version": "1"
+                    },
+                    "sourceTable": {
+                        "name": "vans_SEND_TO_PHONE",
+                        "providerId": "ba4e4440-ab55-4abe-9001-cd7bddacc235",
+                        "version": "2"
+                    },
+                    "subscriptionId": "26b91d84-28b9-be9e-106b-d5e48cbe9f15",
+                    "subscriptionStatus": "SUCCESS",
+                    "targetTable": {
+                        "name": "vans_SEND_TO_PHONE",
+                        "providerId": "b5c1a96a-1c33-4df4-ace8-68db97d11866",
+                        "version": "528bb17d-1b56-4cc3-b3d3-9108b2035efb"
+                    }
+                },
+                {
+                    "logicalTable": {
+                        "name": "DWP_MARKETPLACE_JOB_MAP_DAILY",
+                        "providerId": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b",
+                        "version": "3"
+                    },
+                    "sourceTable": {
+                        "name": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b_DWP_MARKETPLACE_JOB_MAP_DAILY",
+                        "providerId": "ba4e4440-ab55-4abe-9001-cd7bddacc235",
+                        "version": "797"
+                    },
+                    "subscriptionId": "0cb59e5e-0cb5-8708-aa88-55804cbe3d0d",
+                    "subscriptionStatus": "FAILURE",
+                    "targetTable": {
+                        "name": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b_DWP_MARKETPLACE_JOB_MAP_DAILY",
+                        "providerId": "b5c1a96a-1c33-4df4-ace8-68db97d11866",
+                        "version": "ed9ca2f9-d74e-4a17-ada4-62605ff7327f"
+                    }
+                },
+                {
+                    "logicalTable": {
+                        "name": "discovery_logical_directives",
+                        "providerId": "5c3ea1a7-68a3-4ecd-949b-9cc8bf03bba2",
+                        "version": "1"
+                    },
+                    "sourceTable": {
+                        "name": "5c3ea1a7-68a3-4ecd-949b-9cc8bf03bba2_discovery_logical_directives",
+                        "providerId": "ba4e4440-ab55-4abe-9001-cd7bddacc235",
+                        "version": "1"
+                    },
+                    "subscriptionId": "02b7fc95-29ab-40ce-add3-a6ca6d3049bf",
+                    "subscriptionStatus": "SUCCESS",
+                    "targetTable": {
+                        "name": "5c3ea1a7-68a3-4ecd-949b-9cc8bf03bba2_discovery_logical_directives",
+                        "providerId": "b5c1a96a-1c33-4df4-ace8-68db97d11866",
+                        "version": "41c658f0-51f1-45ed-8b49-459d6c83d1d4"
+                    }
+                },
+                {
+                    "logicalTable": {
+                        "name": "D_COIRD_DAILY_LOAD_DATA",
+                        "providerId": "dibs",
+                        "version": "6"
+                    },
+                    "sourceTable": {
+                        "name": "dibs_D_COIRD_DAILY_LOAD_DATA",
+                        "providerId": "ba4e4440-ab55-4abe-9001-cd7bddacc235",
+                        "version": "160"
+                    },
+                    "subscriptionId": "6ab76623-a5ee-330e-1636-474fa75ae59a",
+                    "subscriptionStatus": "FAILURE",
+                    "targetTable": {
+                        "name": "dibs_D_COIRD_DAILY_LOAD_DATA",
+                        "providerId": "b5c1a96a-1c33-4df4-ace8-68db97d11866",
+                        "version": "65ca8e15-f8cb-4015-9117-6b6ea8eaa96e"
+                    }
+                },
+                {
+                    "logicalTable": {
+                        "name": "MERCHANT_LIQUIDATION_REVENUE",
+                        "providerId": "contribution_ddl",
+                        "version": "1"
+                    },
+                    "sourceTable": {
+                        "name": "contribution_ddl_MERCHANT_LIQUIDATION_REVENUE",
+                        "providerId": "ba4e4440-ab55-4abe-9001-cd7bddacc235",
+                        "version": "1"
+                    },
+                    "subscriptionId": "c0b77d66-2f32-7528-dae6-4017a1854482",
+                    "subscriptionStatus": "FAILURE",
+                    "targetTable": {
+                        "name": "contribution_ddl_MERCHANT_LIQUIDATION_REVENUE",
+                        "providerId": "b5c1a96a-1c33-4df4-ace8-68db97d11866",
+                        "version": "16c2ae9a-f73d-4e35-88b5-339beccbbc50"
+                    }
+                },
+                {
+                    "logicalTable": {
+                        "name": "TURBINE_USER_DAILY",
+                        "providerId": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b",
+                        "version": "1"
+                    },
+                    "sourceTable": {
+                        "name": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b_TURBINE_USER_DAILY",
+                        "providerId": "ba4e4440-ab55-4abe-9001-cd7bddacc235",
+                        "version": "1"
+                    },
+                    "subscriptionId": "3eb57d16-99a4-ff57-f17b-2c4b6ea06cfe",
+                    "subscriptionStatus": "SUCCESS",
+                    "targetTable": {
+                        "name": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b_TURBINE_USER_DAILY",
+                        "providerId": "b5c1a96a-1c33-4df4-ace8-68db97d11866",
+                        "version": "26b192da-774b-4bf3-bde2-6bb966b724d4"
+                    }
+                },
+                {
+                    "logicalTable": {
+                        "name": "DWP_MARKETPLACE_JOB_MAP_DAILY",
+                        "providerId": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b",
+                        "version": "3"
+                    },
+                    "sourceTable": {
+                        "name": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b_DWP_MARKETPLACE_JOB_MAP_DAILY",
+                        "providerId": "ba4e4440-ab55-4abe-9001-cd7bddacc235",
+                        "version": "488"
+                    },
+                    "subscriptionId": "fab59061-5509-bcc1-f819-4b1cbdd661ff",
+                    "subscriptionStatus": "FAILURE",
+                    "targetTable": {
+                        "name": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b_DWP_MARKETPLACE_JOB_MAP_DAILY",
+                        "providerId": "b5c1a96a-1c33-4df4-ace8-68db97d11866",
+                        "version": "b965f517-26ce-4a70-b563-f5fcefa7e0de"
+                    }
+                },
+                {
+                    "logicalTable": {
+                        "name": "D_ORIGINAL_INVENTORY_DETAILS",
+                        "providerId": "05ca309b-45e5-4a56-955f-d4d544ec9edd",
+                        "version": "5"
+                    },
+                    "sourceTable": {
+                        "name": "05ca309b-45e5-4a56-955f-d4d544ec9edd_D_ORIGINAL_INVENTORY_DETAILS",
+                        "providerId": "ba4e4440-ab55-4abe-9001-cd7bddacc235",
+                        "version": "1"
+                    },
+                    "subscriptionId": "bcb6c006-5e10-306d-ece8-8c85f5b904f3",
+                    "subscriptionStatus": "FAILURE",
+                    "targetTable": {
+                        "name": "05ca309b-45e5-4a56-955f-d4d544ec9edd_D_ORIGINAL_INVENTORY_DETAILS",
+                        "providerId": "b5c1a96a-1c33-4df4-ace8-68db97d11866",
+                        "version": "bef0c104-202e-4344-920b-55f132351109"
+                    }
+                },
+                {
+                    "logicalTable": {
+                        "name": "pss-metrics",
+                        "providerId": "2616bbdd-a356-4e41-a1d0-9e5666ac5404",
+                        "version": "4"
+                    },
+                    "sourceTable": {
+                        "name": "2616bbdd-a356-4e41-a1d0-9e5666ac5404_pss-metrics",
+                        "providerId": "ba4e4440-ab55-4abe-9001-cd7bddacc235",
+                        "version": "2"
+                    },
+                    "subscriptionId": "36b982b5-4612-bed9-1d41-75038dc20656",
+                    "subscriptionStatus": "FAILURE",
+                    "targetTable": {
+                        "name": "2616bbdd-a356-4e41-a1d0-9e5666ac5404_pss-metrics",
+                        "providerId": "b5c1a96a-1c33-4df4-ace8-68db97d11866",
+                        "version": "c8485ca1-9502-4aae-b439-f4dd09462d4f"
+                    }
+                },
+                {
+                    "logicalTable": {
+                        "name": "DWP_MARKETPLACE_JOB_MAP_DAILY",
+                        "providerId": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b",
+                        "version": "3"
+                    },
+                    "sourceTable": {
+                        "name": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b_DWP_MARKETPLACE_JOB_MAP_DAILY",
+                        "providerId": "ba4e4440-ab55-4abe-9001-cd7bddacc235",
+                        "version": "345"
+                    },
+                    "subscriptionId": "54b58acc-73f1-71a1-5860-8297a6b45bd2",
+                    "subscriptionStatus": "FAILURE",
+                    "targetTable": {
+                        "name": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b_DWP_MARKETPLACE_JOB_MAP_DAILY",
+                        "providerId": "b5c1a96a-1c33-4df4-ace8-68db97d11866",
+                        "version": "77ffa3ab-b234-423a-a0b4-e5abfb603f0c"
+                    }
+                },
+                {
+                    "logicalTable": {
+                        "name": "D_COIRD_DAILY_LOAD_DATA",
+                        "providerId": "dibs",
+                        "version": "6"
+                    },
+                    "sourceTable": {
+                        "name": "dibs_D_COIRD_DAILY_LOAD_DATA",
+                        "providerId": "ba4e4440-ab55-4abe-9001-cd7bddacc235",
+                        "version": "179"
+                    },
+                    "subscriptionId": "24b767e5-2891-4a00-a8dd-14dfb86f5eae",
+                    "subscriptionStatus": "FAILURE",
+                    "targetTable": {
+                        "name": "dibs_D_COIRD_DAILY_LOAD_DATA",
+                        "providerId": "c9c624bd-d6e4-446b-a140-58890220573c",
+                        "version": "2a4c8331-c9c1-48b9-a4d9-7958ea7cdc47"
+                    }
+                },
+                {
+                    "logicalTable": {
+                        "name": "DWP_MARKETPLACES_DAILY",
+                        "providerId": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b",
+                        "version": "3"
+                    },
+                    "sourceTable": {
+                        "name": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b_DWP_MARKETPLACES_DAILY",
+                        "providerId": "ba4e4440-ab55-4abe-9001-cd7bddacc235",
+                        "version": "435"
+                    },
+                    "subscriptionId": "70b5d583-c1d7-c464-d6b5-0fa04dfdee9f",
+                    "subscriptionStatus": "FAILURE",
+                    "targetTable": {
+                        "name": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b_DWP_MARKETPLACES_DAILY",
+                        "providerId": "c9c624bd-d6e4-446b-a140-58890220573c",
+                        "version": "b59ba5e4-a9a4-40a2-8fd2-8121a697de6f"
+                    }
+                },
+                {
+                    "logicalTable": {
+                        "name": "DWP_POSS_JR_DATA_FILE_DEPEND_DAILY",
+                        "providerId": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b",
+                        "version": "3"
+                    },
+                    "sourceTable": {
+                        "name": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b_DWP_POSS_JR_DATA_FILE_DEPEND_DAILY",
+                        "providerId": "ba4e4440-ab55-4abe-9001-cd7bddacc235",
+                        "version": "104"
+                    },
+                    "subscriptionId": "64b581df-ddae-3d54-a7a0-31dfbda69818",
+                    "subscriptionStatus": "FAILURE",
+                    "targetTable": {
+                        "name": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b_DWP_POSS_JR_DATA_FILE_DEPEND_DAILY",
+                        "providerId": "c9c624bd-d6e4-446b-a140-58890220573c",
+                        "version": "13a46142-d9f4-4bc9-8f7f-a1a15ff51bd5"
+                    }
+                },
+                {
+                    "logicalTable": {
+                        "name": "IA_TP_BARCODE_POSITION_ADDED",
+                        "providerId": "dd8828a4-c045-4e89-b30e-7a1f5a35bc4d",
+                        "version": "1"
+                    },
+                    "sourceTable": {
+                        "name": "dd8828a4-c045-4e89-b30e-7a1f5a35bc4d_IA_TP_BARCODE_POSITION_ADDED",
+                        "providerId": "ba4e4440-ab55-4abe-9001-cd7bddacc235",
+                        "version": "1"
+                    },
+                    "subscriptionId": "1cb776a5-d744-3893-2d18-b0ec871448e5",
+                    "subscriptionStatus": "SUCCESS",
+                    "targetTable": {
+                        "name": "dd8828a4-c045-4e89-b30e-7a1f5a35bc4d_IA_TP_BARCODE_POSITION_ADDED",
+                        "providerId": "b5c1a96a-1c33-4df4-ace8-68db97d11866",
+                        "version": "0172d9c4-197e-4eb2-bb62-5cdcce93f600"
+                    }
+                },
+                {
+                    "logicalTable": {
+                        "name": "D_DEVICE_ACCOUNTS",
+                        "providerId": "kindle_cm",
+                        "version": "6"
+                    },
+                    "sourceTable": {
+                        "name": "D_DEVICE_ACCOUNTS_CAIRNS",
+                        "providerId": "kindle_cm",
+                        "version": "1"
+                    },
+                    "subscriptionId": "20b4a8cc-3b01-e5e0-4b9b-9efa69e2a9c3",
+                    "subscriptionStatus": "FAILURE",
+                    "targetTable": {
+                        "name": "kindle_cm_D_DEVICE_ACCOUNTS",
+                        "providerId": "c9c624bd-d6e4-446b-a140-58890220573c",
+                        "version": "default-partition-scheme-by-dmo-snapshot-tool.1523337279549"
+                    }
+                },
+                {
+                    "logicalTable": {
+                        "name": "bcas-decision-audit-information",
+                        "providerId": "d968ef64-141f-42cb-a8d7-4207f8995774",
+                        "version": "1"
+                    },
+                    "sourceTable": {
+                        "name": "d968ef64-141f-42cb-a8d7-4207f8995774_bcas-decision-audit-information",
+                        "providerId": "ba4e4440-ab55-4abe-9001-cd7bddacc235",
+                        "version": "1"
+                    },
+                    "subscriptionId": "c4b9550b-ee34-67a0-3acd-9bc7dc9ab48f",
+                    "subscriptionStatus": "FAILURE",
+                    "targetTable": {
+                        "name": "d968ef64-141f-42cb-a8d7-4207f8995774_bcas-decision-audit-information",
+                        "providerId": "b5c1a96a-1c33-4df4-ace8-68db97d11866",
+                        "version": "3ff6be7c-4e6d-45c9-87b3-98b444ca3d79"
+                    }
+                },
+                {
+                    "logicalTable": {
+                        "name": "DWP_POSS_JR_DATA_FILE_DEPEND_DAILY",
+                        "providerId": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b",
+                        "version": "3"
+                    },
+                    "sourceTable": {
+                        "name": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b_DWP_POSS_JR_DATA_FILE_DEPEND_DAILY",
+                        "providerId": "ba4e4440-ab55-4abe-9001-cd7bddacc235",
+                        "version": "509"
+                    },
+                    "subscriptionId": "b6b5987e-0a7d-02d5-3b89-13930413023d",
+                    "subscriptionStatus": "FAILURE",
+                    "targetTable": {
+                        "name": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b_DWP_POSS_JR_DATA_FILE_DEPEND_DAILY",
+                        "providerId": "c9c624bd-d6e4-446b-a140-58890220573c",
+                        "version": "ac925b64-e9a5-4de8-a962-07c352933aa9"
+                    }
+                },
+                {
+                    "logicalTable": {
+                        "name": "DWP_MARKETPLACES_DAILY",
+                        "providerId": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b",
+                        "version": "3"
+                    },
+                    "sourceTable": {
+                        "name": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b_DWP_MARKETPLACES_DAILY",
+                        "providerId": "ba4e4440-ab55-4abe-9001-cd7bddacc235",
+                        "version": "61"
+                    },
+                    "subscriptionId": "40b57f8a-922c-7bd6-d2e4-d4d2f69c23b0",
+                    "subscriptionStatus": "FAILURE",
+                    "targetTable": {
+                        "name": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b_DWP_MARKETPLACES_DAILY",
+                        "providerId": "c9c624bd-d6e4-446b-a140-58890220573c",
+                        "version": "09ba5e46-12fc-4f2d-870a-0896a3470a89"
+                    }
+                },
+                {
+                    "logicalTable": {
+                        "name": "R_SHOPPING_NOTIFICATION_ACTIVITY",
+                        "providerId": "d68ac66d-7ad2-41ad-b1bf-0639d100f161",
+                        "version": "6"
+                    },
+                    "sourceTable": {
+                        "name": "d68ac66d-7ad2-41ad-b1bf-0639d100f161_R_SHOPPING_NOTIFICATION_ACTIVITY",
+                        "providerId": "ba4e4440-ab55-4abe-9001-cd7bddacc235",
+                        "version": "3"
+                    },
+                    "subscriptionId": "ceb8b0ea-3c63-151c-851d-201cc2b3b1ac",
+                    "subscriptionStatus": "SUCCESS",
+                    "targetTable": {
+                        "name": "d68ac66d-7ad2-41ad-b1bf-0639d100f161_R_SHOPPING_NOTIFICATION_ACTIVITY",
+                        "providerId": "b5c1a96a-1c33-4df4-ace8-68db97d11866",
+                        "version": "0cfdecd8-b4d8-407c-8ac3-7f58b175b03c"
+                    }
+                },
+                {
+                    "logicalTable": {
+                        "name": "CUST_SHIP_SEGMENT_MEMBERSHIP",
+                        "providerId": "booker",
+                        "version": "7"
+                    },
+                    "sourceTable": {
+                        "name": "CUST_SHIP_SEGMENT_MEMBERSHIP_CAIRNS",
+                        "providerId": "booker",
+                        "version": "6"
+                    },
+                    "subscriptionId": "4ab320a4-1669-f0f9-e294-8636a1b4e76d",
+                    "subscriptionStatus": "SUCCESS",
+                    "targetTable": {
+                        "name": "CUST_SHIP_SEGMENT_MEMBERSHIP_CAIRNS_COMPACTED",
+                        "providerId": "booker",
+                        "version": "default-partition-scheme-by-dmo-snapshot-tool.1538692400652"
+                    }
+                },
+                {
+                    "logicalTable": {
+                        "name": "D_REGISTRIES",
+                        "providerId": "booker",
+                        "version": "2"
+                    },
+                    "sourceTable": {
+                        "name": "D_REGISTRIES_CAIRNS",
+                        "providerId": "booker",
+                        "version": "4"
+                    },
+                    "subscriptionId": "8eb80ae1-d96f-ac39-13e8-75d9e2e93b78",
+                    "subscriptionStatus": "IN_PROGRESS",
+                    "targetTable": {
+                        "name": "D_REGISTRIES_CAIRNS_COMPACTION_PARQUET",
+                        "providerId": "c9c624bd-d6e4-446b-a140-58890220573c",
+                        "version": "e2102f2b-1477-4af7-8bc7-530e4d871d31"
+                    }
+                },
+                {
+                    "logicalTable": {
+                        "name": "DWP_POSS_JR_DATA_FILE_DEPEND_DAILY",
+                        "providerId": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b",
+                        "version": "3"
+                    },
+                    "sourceTable": {
+                        "name": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b_DWP_POSS_JR_DATA_FILE_DEPEND_DAILY",
+                        "providerId": "ba4e4440-ab55-4abe-9001-cd7bddacc235",
+                        "version": "541"
+                    },
+                    "subscriptionId": "ceb59a30-659c-14ec-5076-4069b4306456",
+                    "subscriptionStatus": "FAILURE",
+                    "targetTable": {
+                        "name": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b_DWP_POSS_JR_DATA_FILE_DEPEND_DAILY",
+                        "providerId": "b5c1a96a-1c33-4df4-ace8-68db97d11866",
+                        "version": "ca2f8e1c-c113-4109-b2ad-63a5230ae0c2"
+                    }
+                },
+                {
+                    "logicalTable": {
+                        "name": "D_COIRD_DAILY_LOAD_DATA",
+                        "providerId": "dibs",
+                        "version": "6"
+                    },
+                    "sourceTable": {
+                        "name": "dibs_D_COIRD_DAILY_LOAD_DATA",
+                        "providerId": "ba4e4440-ab55-4abe-9001-cd7bddacc235",
+                        "version": "135"
+                    },
+                    "subscriptionId": "24b763c8-092e-33ba-d41e-6ae427a9875a",
+                    "subscriptionStatus": "FAILURE",
+                    "targetTable": {
+                        "name": "dibs_D_COIRD_DAILY_LOAD_DATA",
+                        "providerId": "b5c1a96a-1c33-4df4-ace8-68db97d11866",
+                        "version": "62833c1b-dba7-4e8d-bece-36a4618626f7"
+                    }
+                },
+                {
+                    "logicalTable": {
+                        "name": "bcas-gcor-marketplace-data",
+                        "providerId": "d968ef64-141f-42cb-a8d7-4207f8995774",
+                        "version": "3"
+                    },
+                    "sourceTable": {
+                        "name": "d968ef64-141f-42cb-a8d7-4207f8995774_bcas-gcor-marketplace-data",
+                        "providerId": "ba4e4440-ab55-4abe-9001-cd7bddacc235",
+                        "version": "3"
+                    },
+                    "subscriptionId": "9cb97647-9be2-11aa-5d31-b35e9b714fe9",
+                    "subscriptionStatus": "IN_PROGRESS",
+                    "targetTable": {
+                        "name": "d968ef64-141f-42cb-a8d7-4207f8995774_bcas-gcor-marketplace-data",
+                        "providerId": "b5c1a96a-1c33-4df4-ace8-68db97d11866",
+                        "version": "3ea29bbc-783f-4b94-a754-dfa0a26afde9"
+                    }
+                },
+                {
+                    "logicalTable": {
+                        "name": "DWP_MARKETPLACE_JOB_MAP_DAILY",
+                        "providerId": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b",
+                        "version": "3"
+                    },
+                    "sourceTable": {
+                        "name": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b_DWP_MARKETPLACE_JOB_MAP_DAILY",
+                        "providerId": "ba4e4440-ab55-4abe-9001-cd7bddacc235",
+                        "version": "715"
+                    },
+                    "subscriptionId": "62b59b61-6ded-93c4-bc0e-277e9b765bba",
+                    "subscriptionStatus": "FAILURE",
+                    "targetTable": {
+                        "name": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b_DWP_MARKETPLACE_JOB_MAP_DAILY",
+                        "providerId": "b5c1a96a-1c33-4df4-ace8-68db97d11866",
+                        "version": "0ab54150-9dcc-4ce5-9500-0e3a9900f118"
+                    }
+                },
+                {
+                    "logicalTable": {
+                        "name": "FACT_SHIP_UNITS_EU",
+                        "providerId": "46da7dfc-7833-45f7-bc3a-a36c22d6b6bd",
+                        "version": "2"
+                    },
+                    "sourceTable": {
+                        "name": "46da7dfc-7833-45f7-bc3a-a36c22d6b6bd_FACT_SHIP_UNITS_EU",
+                        "providerId": "ba4e4440-ab55-4abe-9001-cd7bddacc235",
+                        "version": "1"
+                    },
+                    "subscriptionId": "82b5d4e0-6a61-0b6a-5d9a-697c91e883a8",
+                    "subscriptionStatus": "SUCCESS",
+                    "targetTable": {
+                        "name": "46da7dfc-7833-45f7-bc3a-a36c22d6b6bd_FACT_SHIP_UNITS_EU",
+                        "providerId": "b5c1a96a-1c33-4df4-ace8-68db97d11866",
+                        "version": "ed066b4e-ae4e-4137-9caf-dea944262e05"
+                    }
+                },
+                {
+                    "logicalTable": {
+                        "name": "SEA_RECOMPACTION_TEST_2",
+                        "providerId": "a20360d3-fbd6-4901-a019-f2c7bc80c3a2",
+                        "version": "1"
+                    },
+                    "sourceTable": {
+                        "name": "a20360d3-fbd6-4901-a019-f2c7bc80c3a2_SEA_RECOMPACTION_TEST_2",
+                        "providerId": "ba4e4440-ab55-4abe-9001-cd7bddacc235",
+                        "version": "1"
+                    },
+                    "subscriptionId": "beb7eb00-dcff-e4a3-3131-19f23a963014",
+                    "subscriptionStatus": "FAILURE",
+                    "targetTable": {
+                        "name": "a20360d3-fbd6-4901-a019-f2c7bc80c3a2_SEA_RECOMPACTION_TEST_2",
+                        "providerId": "b5c1a96a-1c33-4df4-ace8-68db97d11866",
+                        "version": "9d350199-5559-4b83-8e83-9e5cd00f506e"
+                    }
+                },
+                {
+                    "logicalTable": {
+                        "name": "DWP_MARKETPLACE_JOB_MAP_DAILY",
+                        "providerId": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b",
+                        "version": "3"
+                    },
+                    "sourceTable": {
+                        "name": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b_DWP_MARKETPLACE_JOB_MAP_DAILY",
+                        "providerId": "ba4e4440-ab55-4abe-9001-cd7bddacc235",
+                        "version": "635"
+                    },
+                    "subscriptionId": "34b59846-45c5-34af-5f52-402619940cd7",
+                    "subscriptionStatus": "FAILURE",
+                    "targetTable": {
+                        "name": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b_DWP_MARKETPLACE_JOB_MAP_DAILY",
+                        "providerId": "c9c624bd-d6e4-446b-a140-58890220573c",
+                        "version": "25602b3e-bb33-4cc8-b841-50091942e638"
+                    }
+                },
+                {
+                    "logicalTable": {
+                        "name": "DWP_POSS_JR_DATA_FILE_DEPEND_DAILY",
+                        "providerId": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b",
+                        "version": "3"
+                    },
+                    "sourceTable": {
+                        "name": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b_DWP_POSS_JR_DATA_FILE_DEPEND_DAILY",
+                        "providerId": "ba4e4440-ab55-4abe-9001-cd7bddacc235",
+                        "version": "578"
+                    },
+                    "subscriptionId": "46b59c19-f173-b756-7854-6d6d0d4a0353",
+                    "subscriptionStatus": "FAILURE",
+                    "targetTable": {
+                        "name": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b_DWP_POSS_JR_DATA_FILE_DEPEND_DAILY",
+                        "providerId": "c9c624bd-d6e4-446b-a140-58890220573c",
+                        "version": "4262951e-9d26-4e41-b7b8-8319dc2dc598"
+                    }
+                },
+                {
+                    "logicalTable": {
+                        "name": "MERCHANT_QUICK_PAY_DISCOUNTS",
+                        "providerId": "05b5d3a2-c27c-432e-a005-56d7e85f0808",
+                        "version": "1"
+                    },
+                    "sourceTable": {
+                        "name": "05b5d3a2-c27c-432e-a005-56d7e85f0808_MERCHANT_QUICK_PAY_DISCOUNTS",
+                        "providerId": "ba4e4440-ab55-4abe-9001-cd7bddacc235",
+                        "version": "1"
+                    },
+                    "subscriptionId": "54b79bdb-9d44-fac2-d4e2-9fda2f4c1d85",
+                    "subscriptionStatus": "SUCCESS",
+                    "targetTable": {
+                        "name": "05b5d3a2-c27c-432e-a005-56d7e85f0808_MERCHANT_QUICK_PAY_DISCOUNTS",
+                        "providerId": "b5c1a96a-1c33-4df4-ace8-68db97d11866",
+                        "version": "8e10b7c5-b057-4830-950b-248963abfc03"
+                    }
+                },
+                {
+                    "logicalTable": {
+                        "name": "D_MP_RETAIL_OFFERINGS",
+                        "providerId": "4078e8b8-056e-41e9-9640-1e023dc8ecf7",
+                        "version": "1"
+                    },
+                    "sourceTable": {
+                        "name": "4078e8b8-056e-41e9-9640-1e023dc8ecf7_D_MP_RETAIL_OFFERINGS",
+                        "providerId": "ba4e4440-ab55-4abe-9001-cd7bddacc235",
+                        "version": "1"
+                    },
+                    "subscriptionId": "0ab899a1-c091-5c9c-e521-0c78eb9c891e",
+                    "subscriptionStatus": "SUCCESS",
+                    "targetTable": {
+                        "name": "4078e8b8-056e-41e9-9640-1e023dc8ecf7_D_MP_RETAIL_OFFERINGS",
+                        "providerId": "c9c624bd-d6e4-446b-a140-58890220573c",
+                        "version": "f739623a-2653-40bb-93e9-8a7a3451be4b"
+                    }
+                },
+                {
+                    "logicalTable": {
+                        "name": "DWP_MARKETPLACE_JOB_MAP_DAILY",
+                        "providerId": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b",
+                        "version": "3"
+                    },
+                    "sourceTable": {
+                        "name": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b_DWP_MARKETPLACE_JOB_MAP_DAILY",
+                        "providerId": "ba4e4440-ab55-4abe-9001-cd7bddacc235",
+                        "version": "253"
+                    },
+                    "subscriptionId": "72b586c4-e58d-0c71-80d1-c80bba7e5c1f",
+                    "subscriptionStatus": "FAILURE",
+                    "targetTable": {
+                        "name": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b_DWP_MARKETPLACE_JOB_MAP_DAILY",
+                        "providerId": "b5c1a96a-1c33-4df4-ace8-68db97d11866",
+                        "version": "50963df9-968c-4678-b79c-0571098b6b40"
+                    }
+                },
+                {
+                    "logicalTable": {
+                        "name": "PQ_SELLER_ASIN_DAILY_V2",
+                        "providerId": "product_quality",
+                        "version": "7"
+                    },
+                    "sourceTable": {
+                        "name": "product_quality_PQ_SELLER_ASIN_DAILY_V2",
+                        "providerId": "ba4e4440-ab55-4abe-9001-cd7bddacc235",
+                        "version": "3"
+                    },
+                    "subscriptionId": "9eb91cfe-dc90-7289-1bc8-980613602913",
+                    "subscriptionStatus": "SUCCESS",
+                    "targetTable": {
+                        "name": "product_quality_PQ_SELLER_ASIN_DAILY_V2",
+                        "providerId": "c9c624bd-d6e4-446b-a140-58890220573c",
+                        "version": "e85549f8-4a6d-4185-a5cf-b45f0931e052"
+                    }
+                },
+                {
+                    "logicalTable": {
+                        "name": "D_TREX_HISTORY",
+                        "providerId": "7db15338-d29f-4161-9e8a-e66072ebdafd",
+                        "version": "1"
+                    },
+                    "sourceTable": {
+                        "name": "7db15338-d29f-4161-9e8a-e66072ebdafd_D_TREX_HISTORY",
+                        "providerId": "ba4e4440-ab55-4abe-9001-cd7bddacc235",
+                        "version": "1"
+                    },
+                    "subscriptionId": "32b918dd-d309-2250-bcfc-138aada7af73",
+                    "subscriptionStatus": "SUCCESS",
+                    "targetTable": {
+                        "name": "7db15338-d29f-4161-9e8a-e66072ebdafd_D_TREX_HISTORY",
+                        "providerId": "c9c624bd-d6e4-446b-a140-58890220573c",
+                        "version": "e0dca114-d36b-4102-908c-2b5de185a2a9"
+                    }
+                },
+                {
+                    "logicalTable": {
+                        "name": "DWP_POSS_JR_DATA_FILE_DEPEND_DAILY",
+                        "providerId": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b",
+                        "version": "3"
+                    },
+                    "sourceTable": {
+                        "name": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b_DWP_POSS_JR_DATA_FILE_DEPEND_DAILY",
+                        "providerId": "ba4e4440-ab55-4abe-9001-cd7bddacc235",
+                        "version": "362"
+                    },
+                    "subscriptionId": "f2b58f93-8544-904b-1979-c87e51d4bc53",
+                    "subscriptionStatus": "FAILURE",
+                    "targetTable": {
+                        "name": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b_DWP_POSS_JR_DATA_FILE_DEPEND_DAILY",
+                        "providerId": "b5c1a96a-1c33-4df4-ace8-68db97d11866",
+                        "version": "83a8a373-e01e-4a2c-b396-a7a0a5f4547d"
+                    }
+                },
+                {
+                    "logicalTable": {
+                        "name": "DWP_POSS_JR_DATA_FILE_DEPEND_DAILY",
+                        "providerId": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b",
+                        "version": "3"
+                    },
+                    "sourceTable": {
+                        "name": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b_DWP_POSS_JR_DATA_FILE_DEPEND_DAILY",
+                        "providerId": "ba4e4440-ab55-4abe-9001-cd7bddacc235",
+                        "version": "138"
+                    },
+                    "subscriptionId": "06b583c5-5a97-2396-7710-4c1dd39cb491",
+                    "subscriptionStatus": "FAILURE",
+                    "targetTable": {
+                        "name": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b_DWP_POSS_JR_DATA_FILE_DEPEND_DAILY",
+                        "providerId": "b5c1a96a-1c33-4df4-ace8-68db97d11866",
+                        "version": "c89d531b-0166-48a6-a411-4841d51527ee"
+                    }
+                },
+                {
+                    "logicalTable": {
+                        "name": "DWP_POSS_JR_DATA_FILE_DEPEND_DAILY",
+                        "providerId": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b",
+                        "version": "3"
+                    },
+                    "sourceTable": {
+                        "name": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b_DWP_POSS_JR_DATA_FILE_DEPEND_DAILY",
+                        "providerId": "ba4e4440-ab55-4abe-9001-cd7bddacc235",
+                        "version": "73"
+                    },
+                    "subscriptionId": "44b58071-81a1-095b-8622-78e4c72b70e5",
+                    "subscriptionStatus": "FAILURE",
+                    "targetTable": {
+                        "name": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b_DWP_POSS_JR_DATA_FILE_DEPEND_DAILY",
+                        "providerId": "b5c1a96a-1c33-4df4-ace8-68db97d11866",
+                        "version": "1fa4c87d-9536-4524-9e25-1aae06837f22"
+                    }
+                },
+                {
+                    "logicalTable": {
+                        "name": "O_DWP_POSSIBLE_JOB_RUN_DEPEND",
+                        "providerId": "booker",
+                        "version": "6"
+                    },
+                    "sourceTable": {
+                        "name": "O_DWP_POSSIBLE_JOB_RUN_DEPEND_CAIRNS",
+                        "providerId": "booker",
+                        "version": "4"
+                    },
+                    "subscriptionId": "bab32048-9304-493d-e82b-a6706eca62fc",
+                    "subscriptionStatus": "IN_PROGRESS",
+                    "targetTable": {
+                        "name": "O_DWP_POSSIBLE_JOB_RUN_DEPEND_CAIRNS_COMPACTED",
+                        "providerId": "booker",
+                        "version": "default-partition-scheme-by-dmo-snapshot-tool.1538679659398"
+                    }
+                },
+                {
+                    "logicalTable": {
+                        "name": "DWP_MARKETPLACE_JOB_MAP_DAILY",
+                        "providerId": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b",
+                        "version": "3"
+                    },
+                    "sourceTable": {
+                        "name": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b_DWP_MARKETPLACE_JOB_MAP_DAILY",
+                        "providerId": "ba4e4440-ab55-4abe-9001-cd7bddacc235",
+                        "version": "434"
+                    },
+                    "subscriptionId": "14b58e29-1c2f-ca73-65a1-8ff9f9a3bd76",
+                    "subscriptionStatus": "FAILURE",
+                    "targetTable": {
+                        "name": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b_DWP_MARKETPLACE_JOB_MAP_DAILY",
+                        "providerId": "b5c1a96a-1c33-4df4-ace8-68db97d11866",
+                        "version": "ecf82c83-3365-42b2-977b-11c2831567d4"
+                    }
+                },
+                {
+                    "logicalTable": {
+                        "name": "DWP_MARKETPLACE_JOB_MAP_DAILY",
+                        "providerId": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b",
+                        "version": "3"
+                    },
+                    "sourceTable": {
+                        "name": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b_DWP_MARKETPLACE_JOB_MAP_DAILY",
+                        "providerId": "ba4e4440-ab55-4abe-9001-cd7bddacc235",
+                        "version": "372"
+                    },
+                    "subscriptionId": "eeb58bda-519c-cbd7-4f83-8c944474e13d",
+                    "subscriptionStatus": "FAILURE",
+                    "targetTable": {
+                        "name": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b_DWP_MARKETPLACE_JOB_MAP_DAILY",
+                        "providerId": "c9c624bd-d6e4-446b-a140-58890220573c",
+                        "version": "178141f2-0040-43e3-874b-9d56e6b6458d"
+                    }
+                },
+                {
+                    "logicalTable": {
+                        "name": "R_SHOPPING_NOTIFICATION_ACTIVITY",
+                        "providerId": "d68ac66d-7ad2-41ad-b1bf-0639d100f161",
+                        "version": "5"
+                    },
+                    "sourceTable": {
+                        "name": "d68ac66d-7ad2-41ad-b1bf-0639d100f161_R_SHOPPING_NOTIFICATION_ACTIVITY",
+                        "providerId": "ba4e4440-ab55-4abe-9001-cd7bddacc235",
+                        "version": "2"
+                    },
+                    "subscriptionId": "bcb7723f-5ab8-3b6c-0da2-81a94f8e840c",
+                    "subscriptionStatus": "SUCCESS",
+                    "targetTable": {
+                        "name": "d68ac66d-7ad2-41ad-b1bf-0639d100f161_R_SHOPPING_NOTIFICATION_ACTIVITY",
+                        "providerId": "b5c1a96a-1c33-4df4-ace8-68db97d11866",
+                        "version": "65048817-f419-4d2a-861a-54094f624d7a"
+                    }
+                },
+                {
+                    "logicalTable": {
+                        "name": "A_PQ_RISKY_DEFECTS",
+                        "providerId": "product_quality",
+                        "version": "12"
+                    },
+                    "sourceTable": {
+                        "name": "product_quality_A_PQ_RISKY_DEFECTS",
+                        "providerId": "ba4e4440-ab55-4abe-9001-cd7bddacc235",
+                        "version": "2"
+                    },
+                    "subscriptionId": "54b8c00d-f414-9262-f8c5-c4ae1fa8a44a",
+                    "subscriptionStatus": "FAILURE",
+                    "targetTable": {
+                        "name": "product_quality_A_PQ_RISKY_DEFECTS",
+                        "providerId": "c9c624bd-d6e4-446b-a140-58890220573c",
+                        "version": "1ab0c1ae-2d95-4144-919e-96ea822fced3"
+                    }
+                },
+                {
+                    "logicalTable": {
+                        "name": "DWP_MARKETPLACE_JOB_MAP_DAILY",
+                        "providerId": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b",
+                        "version": "3"
+                    },
+                    "sourceTable": {
+                        "name": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b_DWP_MARKETPLACE_JOB_MAP_DAILY",
+                        "providerId": "ba4e4440-ab55-4abe-9001-cd7bddacc235",
+                        "version": "13"
+                    },
+                    "subscriptionId": "b4b57d86-17af-ebf0-e0dd-6e8bfb2a3f8c",
+                    "subscriptionStatus": "FAILURE",
+                    "targetTable": {
+                        "name": "d1ffd12e-4857-4b0a-b711-0ec9d8b8437b_DWP_MARKETPLACE_JOB_MAP_DAILY",
+                        "providerId": "c9c624bd-d6e4-446b-a140-58890220573c",
+                        "version": "6a9e0797-cde9-4f13-9735-b1392390739e"
+                    }
+                }
+            ]
+        }
